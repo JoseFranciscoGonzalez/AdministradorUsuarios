@@ -1,0 +1,7 @@
+########################ARCHIVO_DE_CONFIGURACION##########################
+# NOMBRE: TEST_empty_file.txt
+#
+# COMENTARIOS:  
+# Archivo para prueba de detección de errores. 
+#
+##########################################################################

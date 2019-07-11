@@ -1,0 +1,28 @@
+########################ARCHIVO_DE_CONFIGURACION##########################
+# NOMBRE: TEST_file2.txt
+#
+# COMENTARIOS:  
+# Las líneas iniciadas en # no son procesadas.
+# Se debe respetar el espaciado entre identificador y valor ([..] = [..]).
+# No son válidos: [..]= [..] o [..] =[..].
+#
+# Los usuarios deben ser separados por UN SOLO salto de línea.
+#
+# El último usuario debe estar seguido por UN SOLO salto de línea.
+# Los identificadores pueden ir en cualquier orden.
+# 
+# FORMATO DE MENSAJE:
+# msg_id/AAAA-MM-DD/usr_id/[message]
+#
+# FORMATO DE FECHA: 
+# AAA-MM-DD
+#
+##########################################################################
+[Mariano]
+id = 1001
+name = Mariano Pinto
+friends = 1000/1002/1003/1004/1006/1007/1008/1009
+messages = 9005/1998-01-25/1006/Etiam porta lectus et orci congue.
+messages = 9006/1965-06-01/1007/In aliquet sagittis eros, at molestie.
+
+#Última línea.

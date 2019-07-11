@@ -1,0 +1,27 @@
+########################ARCHIVO_DE_CONFIGURACION##########################
+# NOMBRE: TEST_broken_file.txt
+#
+# COMENTARIOS:  
+# Archivo para prueba de detección de errores. 
+#
+##########################################################################
+#Descomentar alguna línea para ejecución de identificador inválido.\\
+#[]
+#id = 
+#id= 1000
+#id =1000
+id = -1000
+#name =Johann Sebastian
+#name= Johann Sebastian
+#name = 
+#otracosa = Johann Sebastian
+#friends= 1001/1002/1003/1004
+#friends =1001/1002/1003/1004
+#friends = 
+#otracosa = 1001/1002/1003/1004
+#messages= 9002/2017-04-4/1003/Lorem ipsum dolor sit amet, consectetur.
+#messages =9003/2012-12-12/1004/Nullam vitae placerat neque, sit amet.
+#otracosa = 9004/2013-13-13/1005/In turpis metus, varius quis aliquam.
+#otracosa = 
+#
+#Ultima linea.
