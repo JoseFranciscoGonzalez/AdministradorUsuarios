@@ -5,6 +5,7 @@
 # Archivo para prueba de detección de errores. 
 #
 ##########################################################################
+#[Mastropiero]
 #Descomentar alguna línea para ejecución de identificador inválido.\\
 #[]
 #id = 

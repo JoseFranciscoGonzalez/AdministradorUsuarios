@@ -1,5 +1,5 @@
 ########################ARCHIVO_DE_CONFIGURACION##########################
-# NOMBRE: TEST_file2.txt
+# NOMBRE: TEST_FILE2.txt
 #
 # COMENTARIOS:  
 # Las líneas iniciadas en # no son procesadas.
@@ -23,6 +23,6 @@ id = 1001
 name = Mariano Pinto
 friends = 1000/1002/1003/1004/1006/1007/1008/1009
 messages = 9005/1998-01-25/1006/Etiam porta lectus et orci congue.
-messages = 9006/1965-06-01/1007/In aliquet sagittis eros, at molestie.
+messages = 9006/1065-06-01/1007/In aliquet sagittis eros, at molestie.
 
 #Última línea.

@@ -31,7 +31,7 @@ id = 1001
 name = Mariano Pinto
 friends = 1000/1002/1003/1004/1006/1007/1008/1009
 messages = 9005/1998-01-25/1006/Etiam porta lectus et orci congue.
-messages = 9006/1965-06-01/1007/In aliquet sagittis eros, at molestie.
+messages = 9006/1065-06-01/1007/In aliquet sagittis eros, at molestie.
 
 [Roger]
 id = 1002

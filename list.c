@@ -187,8 +187,8 @@ list_rtval_t LIST_travel(const list_s* list, void(*func)(void*,void*), void* arg
 
 	while(ptr!=NULL)
 	{
-		(*func)((ptr)->dato,arg1);
-		ptr= (ptr)->sig;
+		(*func)((ptr)->data,arg1);
+		ptr= (ptr)->next;
 	}
 	return LIST_RV_SUCCESS;
 
